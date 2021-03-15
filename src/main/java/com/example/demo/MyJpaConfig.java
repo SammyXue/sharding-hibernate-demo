@@ -110,7 +110,6 @@ public class MyJpaConfig {
     /**
      * 获取主库数据源对象
      *
-     * @param dataSourceProperties 注入名为userDataSourceProperties的bean
      * @return 数据源对象
      */
     @Primary
